@@ -61,9 +61,7 @@ Para mais informações sobre como o código foi pensado, visualizar o relatóri
 
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/39316240?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Thiago Marinho</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
-
-
+ 
 Feito por Gabriela Silva!
 
  [![Linkedin Badge](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielasil/)](https://www.linkedin.com/in/gabrielasil/) 
